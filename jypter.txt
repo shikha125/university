@@ -1,0 +1,13 @@
+file->new->notebook
+shift+enter(to run the code)
+.ipynb(for saving the file)(file
+for direct saving(file->download)
+mycomputer->this pc->cdrive->user->administrator(you can find the file in this path)
+
+terminal(for changing the location of the file that you save)
+->file->new->terminal
+->d:
+->ls
+->mkdir shikhapython
+-> jupyter notebook
+
